@@ -1,3 +1,31 @@
-body {
-
+h1 {
+  color: purple;
+  text-decoration: white dashed overline
+  underline;
+    letter-spacing: -4px;
+    word-spacing: 30px;
 }
+
+body {
+  background-color: black;
+}
+
+img:hover {
+  width: 200px;
+  border: white solid 14px;
+  border-radius: 70;
+}
+
+
+      h1 {
+  color: purple;
+  text-decoration: white dashed overline
+  underline;
+    letter-spacing: -4px;
+    word-spacing: 30px;
+}
+
+body {
+  background-color: black;
+}
+    
